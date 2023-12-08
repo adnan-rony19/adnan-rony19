@@ -1,3 +1,9 @@
+anuraghazra/github-readme-stats
+DenverCoder1/github-readme-streak-stats
+
+
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,figma,firebase,github,react,tailwind)](https://skillicons.dev)
+
 
 
 - 🔭 I’m currently working on ...
